@@ -1,4 +1,4 @@
-BUNDLE := org.coolstar.taurine
+BUNDLE := org.coolstar.taurine 
 
 .PHONY: all clean
 
